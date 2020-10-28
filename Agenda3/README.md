@@ -1,3 +1,3 @@
 ## Agenda 3
 
-As atidades progressivas da agenda foram bem interessantes por nos fazerem aplicar conceitos novos em uma atvidida "já feita", o que nós ajuda a manipular códigos prontos. No mais, sem muitas dificuldades 
+As atidades progressivas da agenda foram bem interessantes por nos fazerem aplicar conceitos novos em uma atvidida "já feita", o que nós ajuda a manipular códigos prontos. No mais, sem muitas dificuldades. Realizado sozinho, como trabalho foi progressivo, foi realizado em semanas diferentes, a primeira versão da agenda 2 demourou algumas horas, já a implementação das coisas da agenda 3 alguns minutos.
